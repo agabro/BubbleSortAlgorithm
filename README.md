@@ -22,6 +22,6 @@ public class BubbleSort {
                 }
             }
         }
-        System.out.println("Not sorted array: " + Arrays.toString(notSortedArray));
+        System.out.println("Sorted array: " + Arrays.toString(notSortedArray));
     }
 }
