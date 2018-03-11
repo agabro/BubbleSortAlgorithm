@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class BinarySearch {
+public class BubbleSort {
     public static void main(String[] args) {
         int[] notSortedArray = new int[10];
         boolean swapped = true;
